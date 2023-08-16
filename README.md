@@ -44,18 +44,6 @@ Feel free to modify the code, experiment with different datasets, or enhance the
 
 Happy coding!
 
-## Libraries and Techniques
 
-This project utilizes several key libraries and techniques to accomplish its goals:
-
-- **pandas**: Used for data manipulation and analysis.
-- **scikit-learn**: Employed for machine learning modeling and evaluation.
-- **matplotlib**: Utilized for data visualization and plotting.
-- **XGBoost**: Applied for gradient boosting machine learning.
-- **Jupyter Notebook**: Used for interactive coding and documentation.
-
-## Description
-
-This project showcases the application of data analysis and machine learning techniques to a real-world dataset. The provided Jupyter Notebook contains step-by-step implementations using the mentioned libraries, allowing for clear and reproducible results. Visualizations created with matplotlib enhance the understanding of the data, and the machine learning models built with scikit-learn and XGBoost demonstrate predictive modeling capabilities.
 
 
