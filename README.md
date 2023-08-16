@@ -44,3 +44,6 @@ Feel free to modify the code, experiment with different datasets, or enhance the
 
 Happy coding!
 
+
+![Language](https://img.shields.io/badge/language-Python-blue)
+
